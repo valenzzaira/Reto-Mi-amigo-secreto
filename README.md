@@ -18,7 +18,7 @@ Ideal para juegos, dinámicas grupales, decisiones rápidas o simplemente para d
 ## 🕹️ ¿Cómo jugar?
 
 1. ✍️ Escribe al menos **tres nombres** en el campo de texto.  
-   Ejemplo: `Ana, Luis, Carla`
+Ejemplo: `Ana, Luis, Carla`
 
 2. 🧼 Asegúrate de separarlos por comas (`,`) o saltos de línea.
 
@@ -30,38 +30,16 @@ Ideal para juegos, dinámicas grupales, decisiones rápidas o simplemente para d
 
 ## 💡 Características
 
-- ✅ Validación automática: si ingresas menos de tres nombres, el botón se desactiva.
+- ✅ Validación automática: si no tienes ningún hombre no se puede jugar.
 - 🎨 Interfaz colorida y amigable.
 - 🔁 Puedes volver a sortear tantas veces como quieras.
 - 📱 Compatible con dispositivos móviles.
 
----
 
-## 🧠 ¿Por qué usarlo?
-
-Porque tomar decisiones puede ser estresante...  
-**¡y este juego lo convierte en algo divertido!**
-
-Además, es una excelente herramienta para:
-
-- Dinámicas en clase o talleres
-- Juegos de mesa
-- Sorteos rápidos
-- Decisiones grupales
-
----
 
 ## 🚀 Tecnologías utilizadas
 
 - `HTML5` + `CSS3` para una interfaz moderna y responsiva  
 - `JavaScript` para la lógica de sorteo y validación
 
----
 
-## 📸 Vista previa
-
-> *(Aquí puedes incluir una imagen o GIF del juego en acción si lo deseas)*
-
----
-
-## 📂 Estructura del proyecto
